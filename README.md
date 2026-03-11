@@ -8,3 +8,6 @@ With this model, people can tell whether they have a brain tumor and trust that 
 - OpenCV
 - Scikit-learn
 - Support Vector Classifier
+- Numpy
+- Matplotlib
+
